@@ -21,4 +21,4 @@ djangorestframework-simplejwt==5.3.1  # https://github.com/jpadilla/django-rest-
 django-mptt==0.16.0 # https://github.com/django-mptt/django-mptt.git
 django-filter==24.3
 
-phonenumbers==8.13.50
+phonenumbers==8.13.53
